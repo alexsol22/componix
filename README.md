@@ -24,7 +24,7 @@ A beautiful collection of reusable Laravel Livewire components with Tailwind CSS
 1. Install the package via Composer:
 
 ```bash
-composer require axesol22/componix
+composer require alexsol22/componix
 ```
 
 2. Publish the configuration file:
